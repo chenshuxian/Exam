@@ -1,0 +1,24 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "Exam System",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-bodyparser": "3.2.0",
+    "koa-router": "7.0.0",
+    "nunjucks": "2.4.2",
+    "mime": "1.3.4",
+    "mz": "2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jackychen/repository.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
